@@ -3,7 +3,7 @@
 dependencies: []
 
 galaxy_info:
-  author: igor.mukhin@gmail.com
+  author: iwagner-inmar
   description:
   license: MIT
   min_ansible_version: 1.4
